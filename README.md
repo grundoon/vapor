@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/twitter-codevapor-5AA9E7.svg" alt="Twitter">
     </a>
     <a href="https://vapor.codes">
-        <img src="https://bit.ly/2JnNDcs" alt="Vapor">
+        <img src="https://img.shields.io/badge/vapor-3-00B0FF.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iLTIwMCAtMjAwIDIwMCAyMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjU4JSIgaWQ9ImMiPjxzdG9wIHN0b3AtY29sb3I9IiNFMDQwRkIiLz48c3RvcCBzdG9wLWNvbG9yPSIjNDBDNEZGIiBvZmZzZXQ9IjEwMCUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48ZyBmaWxsPSJ1cmwoI2MpIj48cGF0aCBkPSJNMTAwLDIwMCBDMTAwLDIwMCAxNzIsMTExIDE3Miw3MSBDMTcyLDMyIDE0MCwyIDEwMCwyIEM2MSwyIDI5LDMyIDI5LDcxIEMyOSwxMTEgMTAwLDIwMCAxMDAsMjAwIFoiIHRyYW5zZm9ybT0icm90YXRlKDE4MCkiPjwvcGF0aD48L2c+PC9zdmc+" alt="Vapor">
     </a>
 </p>
 
